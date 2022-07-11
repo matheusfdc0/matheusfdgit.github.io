@@ -31,7 +31,7 @@ body {
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-contents{
+.left-section-content{
     padding: 2rem 2rem;
 }
 
@@ -42,6 +42,8 @@ body {
 
 .profile .profile-image {
     width: 100%;
+    border-radius: 50%;
+    border: 8px solid #1B2631;
 }
 
 .name {
